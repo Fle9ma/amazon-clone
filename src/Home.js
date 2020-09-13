@@ -8,58 +8,58 @@ function Home() {
       <div className="home__container">
         <img
           className="home__image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+          src="https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2017/img/Books/XCM_1078138_Manual_1500x375_1078138_us_books_100_books_evergreen_17_1500x375_R3_jpg_100_Books_Evergreen.jpg"
           alt=""
         />
 
         <div className="home__row">
           <Product
-            id="12321341"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
+            id="38646970"
+            title="Pro React 16"
+            price={37.86}
             rating={5}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/61aBIWNwauL.jpg"
           />
           <Product
-            id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-            price={239.0}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            id="47411027"
+            title="The Road to React: Your journey to master plain yet pragmatic React.js"
+            price={27.65}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/519rgWOYPjL.jpg"
           />
         </div>
 
         <div className="home__row">
           <Product
-            id="4903850"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-            price={199.99}
-            rating={3}
-            image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
-          />
-          <Product
-            id="23445930"
-            title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
-            price={98.99}
-            rating={5}
-            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
-          />
-          <Product
-            id="3254354345"
-            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-            price={598.99}
+            id="69212745"
+            title="Learning React: Modern Patterns for Developing React Apps"
+            price={39.21}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL.jpg"
+          />
+          <Product
+            id="67346131"
+            title="React js: Unmatched power for building fast and secure apps"
+            price={16.99}
+            rating={5}
+            image="https://m.media-amazon.com/images/I/414sv9LEkSL.jpg"
+          />
+          <Product
+            id="28026030"
+            title="Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker"
+            price={27.19}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/41q4NK-yIAL.jpg"
           />
         </div>
 
         <div className="home__row">
           <Product
-            id="90829332"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
-            price={1094.98}
+            id="54463902"
+            title="React Explained: Your Step-by-Step Guide to React (2020 Edition)"
+            price={25.72}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/413n6ZDm0ZL.jpg"
           />
         </div>
       </div>

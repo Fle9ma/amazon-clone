@@ -13,7 +13,9 @@
 }
 
 .product__rating {
-    display: flex;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 .product > img {
@@ -24,18 +26,35 @@
 }
 
 .product > button {
-  background: #f0c14b;
-  border: 1px solid;
-  margin-top: 10px;
-  border-color: #a88734 #9c7e31 #846a29;
-  color: #111;
+  border: none;
+  padding: 20px 60px;
+  text-transform: uppercase;
+  outline: none;
+  background: #fcad26;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  margin: 12px 0;
+}
+
+.product > button:hover {
+  background: #ffb73a;
+}
+
+.product > button > svg {
+  margin-right: 14px;
 }
 
 .product__price {
-  margin-top: 5px;
+  margin: 10px 0;
 }
 
 .product__info {
   height: 100px;
   margin-bottom: 15px;
+  width: 100%;
+  text-align: center;
 }
